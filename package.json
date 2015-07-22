@@ -1,0 +1,17 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.5.2",
+    "ejs": "*",
+    "mongoose": "~4.0.8",
+    "path": "~0.11.14",
+    "router": "~1.1.2",
+    "routes": "~2.1.0",
+    "connect": "~3.4.0"
+  }
+}
